@@ -20,5 +20,7 @@
     "@types/inquirer": "^9.0.7",
     "@types/node": "^20.12.7"
   },
-  "bin": "index.js"
+  "bin": {
+    "piaic-roll-dice": "index.js"
+  }
 }
